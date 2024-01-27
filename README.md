@@ -2,8 +2,8 @@
 
 ### Included files in this repo:
 - Power BI file (.pbix)
-- Excel data file (WIP)
-- Dashboard file (.pdf)
+- Excel data file *(pending)*
+- Dashboard file (.pdf) *(pending)*
 
 ### Website(s) used to scrape the data:
 - World Population data -
